@@ -1,2 +1,6 @@
-/djangowiki
+/your-venev-directory
+__pycache__
 .vscode/
+db.sqlite3
+media/
+dynowiki/static
